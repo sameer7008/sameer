@@ -44,7 +44,7 @@ public class sameertest1 {
 
 
 	   
- public class Demo {
+ public class Demo1 {
 		        @Test
 		        public void test1()
 		        {
